@@ -1,0 +1,975 @@
+--------- beginning of main
+07-24 17:59:37.693 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:37.734 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:37.782 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:37.814 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:37.816 20076 20111 W TEST_ISO: [15.5, 1.0012903] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:37.816 20076 20111 W sGetActual_analog_gain: 15.5
+07-24 17:59:37.816 20076 20111 W sGetApplied_digital_gain: 1.0012903
+07-24 17:59:37.816 20076 20111 W sGetPost_raw_digital_gain: 1.1
+07-24 17:59:37.816 20076 20111 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:37.817 20076 20111 W GET camera ID : 3
+07-24 17:59:37.817 20076 20111 W GET camera ID : 3
+07-24 17:59:37.857 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:37.858 20076 20636 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:37.894 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:37.938 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:37.974 20076 20636 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:37.977 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:37.979 20076 20704 W HDR+_command : CAM_RequestQueue
+07-24 17:59:37.982 20076 20704 W HDR+_command : CAM_SimpleReqProcessor
+07-24 17:59:38.014 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.058 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.065 20076 20111 W TEST_ISO: [15.5, 1.0077419] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:38.065 20076 20111 W sGetActual_analog_gain: 15.5
+07-24 17:59:38.065 20076 20111 W sGetApplied_digital_gain: 1.0077419
+07-24 17:59:38.065 20076 20111 W sGetPost_raw_digital_gain: 1.11
+07-24 17:59:38.065 20076 20111 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:38.065 20076 20111 W GET camera ID : 3
+07-24 17:59:38.065 20076 20111 W GET camera ID : 3
+07-24 17:59:38.096 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.134 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.174 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.219 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.255 20076 20637 W HDR+_command : CAM_SimpleReqProcessor
+07-24 17:59:38.257 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.295 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.296 20076 20111 W TEST_ISO: [15.5, 1.0077419] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:38.297 20076 20111 W sGetActual_analog_gain: 15.5
+07-24 17:59:38.297 20076 20111 W sGetApplied_digital_gain: 1.0077419
+07-24 17:59:38.297 20076 20111 W sGetPost_raw_digital_gain: 1.11
+07-24 17:59:38.297 20076 20111 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:38.297 20076 20111 W GET camera ID : 3
+07-24 17:59:38.297 20076 20111 W GET camera ID : 3
+07-24 17:59:38.334 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.376 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.377 20076 20636 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:38.417 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.455 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.495 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.537 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.538 20076 20111 W TEST_ISO: [15.5, 1.0077419] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:38.538 20076 20111 W sGetActual_analog_gain: 15.5
+07-24 17:59:38.538 20076 20111 W sGetApplied_digital_gain: 1.0077419
+07-24 17:59:38.538 20076 20111 W sGetPost_raw_digital_gain: 1.11
+07-24 17:59:38.538 20076 20111 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:38.539 20076 20111 W GET camera ID : 3
+07-24 17:59:38.539 20076 20111 W GET camera ID : 3
+07-24 17:59:38.575 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.614 20076 20076 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.655 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.696 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.741 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.785 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.789 20076 20112 W TEST_ISO: [15.5, 1.003871] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:38.789 20076 20112 W sGetActual_analog_gain: 15.5
+07-24 17:59:38.789 20076 20112 W sGetApplied_digital_gain: 1.003871
+07-24 17:59:38.789 20076 20112 W sGetPost_raw_digital_gain: 1.13
+07-24 17:59:38.790 20076 20112 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:38.791 20076 20112 W GET camera ID : 3
+07-24 17:59:38.791 20076 20112 W GET camera ID : 3
+07-24 17:59:38.823 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.863 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.903 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.904 20076 20636 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:38.944 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:38.983 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.024 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.028 20076 20111 W TEST_ISO: [15.5, 1.003871] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:39.029 20076 20111 W sGetActual_analog_gain: 15.5
+07-24 17:59:39.029 20076 20111 W sGetApplied_digital_gain: 1.003871
+07-24 17:59:39.029 20076 20111 W sGetPost_raw_digital_gain: 1.33
+07-24 17:59:39.029 20076 20111 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:39.034 20076 20111 W GET camera ID : 3
+07-24 17:59:39.035 20076 20111 W GET camera ID : 3
+07-24 17:59:39.065 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.110 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.141 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.183 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.226 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.266 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.270 20076 20111 W TEST_ISO: [15.5, 1.003871] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:39.271 20076 20111 W sGetActual_analog_gain: 15.5
+07-24 17:59:39.271 20076 20111 W sGetApplied_digital_gain: 1.003871
+07-24 17:59:39.271 20076 20111 W sGetPost_raw_digital_gain: 1.66
+07-24 17:59:39.271 20076 20111 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:39.272 20076 20111 W GET camera ID : 3
+07-24 17:59:39.274 20076 20111 W GET camera ID : 3
+07-24 17:59:39.302 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.338 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.386 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.426 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.427 20076 20636 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:39.464 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.502 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.506 20076 20112 W TEST_ISO: [15.5, 1.0] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:39.506 20076 20112 W sGetActual_analog_gain: 15.5
+07-24 17:59:39.506 20076 20112 W sGetApplied_digital_gain: 1.0
+07-24 17:59:39.506 20076 20112 W sGetPost_raw_digital_gain: 1.96
+07-24 17:59:39.506 20076 20112 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:39.507 20076 20112 W GET camera ID : 3
+07-24 17:59:39.507 20076 20112 W GET camera ID : 3
+07-24 17:59:39.545 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.586 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.613 20076 20076 V MiuiFrameworkFactory: get AllImpl object = android.common.MiuiFrameworkFactoryImpl@eb791f7
+07-24 17:59:39.622 20076 20076 W MirrorManager: this model don't Support
+07-24 17:59:39.632 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.666 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.704 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.747 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.754 20076 20111 W TEST_ISO: [15.5, 1.0012903] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:39.754 20076 20111 W sGetActual_analog_gain: 15.5
+07-24 17:59:39.754 20076 20111 W sGetApplied_digital_gain: 1.0012903
+07-24 17:59:39.754 20076 20111 W sGetPost_raw_digital_gain: 1.93
+07-24 17:59:39.754 20076 20111 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:39.755 20076 20111 W GET camera ID : 4
+07-24 17:59:39.756 20076 20111 W GET camera ID : 4
+07-24 17:59:39.782 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.824 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.871 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.908 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.952 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.953 20076 20636 E native  : gyro.cc:304 timestamp 1203713901273636 invalid
+07-24 17:59:39.953 20076 20636 E native  : gyro.cc:431 error getting quat at time 1203713901273636
+07-24 17:59:39.953 20076 20636 E native  : gyro_stabilization_jni.cc:138 Cannot get the projection matrix.
+07-24 17:59:39.953 20076 20636 W CAM_GyroQueue: Projection matrix could not be computed for timestamp = 1203713901273636
+07-24 17:59:39.953 20076 20636 W GyroTransformCalc: Previous or current projection matrix cannot be computed. Defaulting to identity
+07-24 17:59:39.953 20076 20636 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:39.987 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:39.992 20076 20112 W TEST_ISO: [15.5, 1.0025806] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:39.997 20076 20112 W sGetActual_analog_gain: 15.5
+07-24 17:59:39.997 20076 20112 W sGetApplied_digital_gain: 1.0025806
+07-24 17:59:39.997 20076 20112 W sGetPost_raw_digital_gain: 1.79
+07-24 17:59:39.998 20076 20112 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:39.999 20076 20112 W GET camera ID : 4
+07-24 17:59:40.000 20076 20112 W GET camera ID : 4
+07-24 17:59:40.026 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.071 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.102 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.146 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.187 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.229 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.231 20076 20112 W TEST_ISO: [15.5, 1.003871] MAX_ISO = 15.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:40.231 20076 20112 W sGetActual_analog_gain: 15.5
+07-24 17:59:40.231 20076 20112 W sGetApplied_digital_gain: 1.003871
+07-24 17:59:40.231 20076 20112 W sGetPost_raw_digital_gain: 1.39
+07-24 17:59:40.232 20076 20112 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:40.232 20076 20112 W GET camera ID : 4
+07-24 17:59:40.233 20076 20112 W GET camera ID : 4
+07-24 17:59:40.265 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.308 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.358 20076 20636 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:40.363 20076 20076 I eaurora.snapca: System.exit called, status: 0
+07-24 17:59:40.363 20076 20076 I AndroidRuntime: VM exiting with result code 0, cleanup skipped.
+07-24 17:59:40.514 20791 20791 I libc    : SetHeapTaggingLevel: tag level set to 0
+07-24 17:59:40.519 20791 20791 E eaurora.snapca: Not starting debugger since process cannot load the jdwp agent.
+07-24 17:59:40.553 20791 20791 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-24 17:59:40.575 20791 20791 I Perf    : Connecting to perf service.
+07-24 17:59:40.579 20791 20791 W ResourceType: CREATING STRING CACHE OF 176 bytes
+07-24 17:59:40.580 20791 20791 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-24 17:59:40.580 20791 20791 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-24 17:59:40.581 20791 20791 I SignatureCheck: Signature check ok
+07-24 17:59:40.583 20791 20791 W CAM_SearchIndexProv: Called onCreate
+07-24 17:59:40.593 20791 20791 E GCA_App#onCreate: Cannot start the Google Camera on an unsupported device
+07-24 17:59:40.594 20791 20791 I CameraManagerGlobal: Connecting to camera service
+07-24 17:59:40.598 20791 20791 I FeatureParser: can't find vayu.xml in assets/device_features/,it may be in /vendor/etc/device_features
+07-24 17:59:40.601 20791 20791 I CameraMetadataJV: setAppNameAndSensorId all [com.ludashi:0,add,8000x6000,33,false]
+07-24 17:59:40.602 20791 20791 I CameraMetadataJV: setAppNameAndSensorId all [com.ludashi:1,add,5184x3880,33,false]
+07-24 17:59:40.602 20791 20791 I CameraMetadataJV: setAppNameAndSensorId all [com.antutu:0,ssize,8000x6000,0,false]
+07-24 17:59:40.602 20791 20791 I CameraMetadataJV: setAppNameAndSensorId all [com.antutu:1,ssize,5184x3880,0,false]
+07-24 17:59:40.603 20791 20791 E TEST_getBit [ID = 0]: OK
+07-24 17:59:40.603 20791 20791 E TEST_colorFilterArrangement [ID = 0]: OK because = 0
+07-24 17:59:40.603 20791 20791 E TEST_AND_ADD_android.control.aeAvailableModes [ID = 0]: OK
+07-24 17:59:40.603 20791 20791 E TEST_AND_ADD_android.lens.info.availableFocalLengths [ID = 0]: OK
+07-24 17:59:40.603 20791 20791 E TEST_AND_ADD_android.lens.info.availableApertures [ID = 0]: OK
+07-24 17:59:40.603 20791 20791 E TEST_AND_ADD_android.sensor.info.physicalSize [ID = 0]: OK
+07-24 17:59:40.603 20791 20791 E ALL_TEST [ID = 0]: PASSED
+07-24 17:59:40.604 20791 20791 E TEST_getBit [ID = 1]: OK
+07-24 17:59:40.604 20791 20791 E TEST_colorFilterArrangement [ID = 1]: OK because = 2
+07-24 17:59:40.604 20791 20791 E TEST_AND_ADD_android.control.aeAvailableModes [ID = 1]: OK
+07-24 17:59:40.604 20791 20791 E TEST_AND_ADD_android.lens.info.availableFocalLengths [ID = 1]: OK
+07-24 17:59:40.604 20791 20791 E TEST_AND_ADD_android.lens.info.availableApertures [ID = 1]: OK
+07-24 17:59:40.604 20791 20791 E TEST_AND_ADD_android.sensor.info.physicalSize [ID = 1]: OK
+07-24 17:59:40.604 20791 20791 E ALL_TEST [ID = 1]: PASSED
+07-24 17:59:40.604 20791 20791 E TEST_getBit [ID = 2]: OK
+07-24 17:59:40.604 20791 20791 E TEST_colorFilterArrangement [ID = 2]: FAILED because = 5
+07-24 17:59:40.605 20791 20791 E TEST_getBit [ID = 3]: OK
+07-24 17:59:40.605 20791 20791 E TEST_colorFilterArrangement [ID = 3]: OK because = 3
+07-24 17:59:40.605 20791 20791 E TEST_AND_ADD_android.control.aeAvailableModes [ID = 3]: OK
+07-24 17:59:40.605 20791 20791 E TEST_AND_ADD_android.lens.info.availableFocalLengths [ID = 3]: OK
+07-24 17:59:40.605 20791 20791 E TEST_AND_ADD_android.lens.info.availableApertures [ID = 3]: OK
+07-24 17:59:40.605 20791 20791 E TEST_AND_ADD_android.sensor.info.physicalSize [ID = 3]: OK
+07-24 17:59:40.605 20791 20791 E ALL_TEST [ID = 3]: PASSED
+07-24 17:59:40.605 20791 20791 E TEST_getBit [ID = 4]: OK
+07-24 17:59:40.605 20791 20791 E TEST_colorFilterArrangement [ID = 4]: OK because = 3
+07-24 17:59:40.605 20791 20791 E TEST_AND_ADD_android.control.aeAvailableModes [ID = 4]: OK
+07-24 17:59:40.606 20791 20791 E TEST_AND_ADD_android.lens.info.availableFocalLengths [ID = 4]: OK
+07-24 17:59:40.606 20791 20791 E TEST_AND_ADD_android.lens.info.availableApertures [ID = 4]: OK
+07-24 17:59:40.606 20791 20791 E TEST_AND_ADD_android.sensor.info.physicalSize [ID = 4]: OK
+07-24 17:59:40.606 20791 20791 E ALL_TEST [ID = 4]: PASSED
+07-24 17:59:40.606 20791 20791 E TEST_getBit [ID = 5]: OK
+07-24 17:59:40.606 20791 20791 E TEST_colorFilterArrangement [ID = 5]: OK because = 0
+07-24 17:59:40.606 20791 20791 E TEST_AND_ADD_android.control.aeAvailableModes [ID = 5]: OK
+07-24 17:59:40.606 20791 20791 E TEST_AND_ADD_android.lens.info.availableFocalLengths [ID = 5]: OK
+07-24 17:59:40.606 20791 20791 E TEST_AND_ADD_android.lens.info.availableApertures [ID = 5]: OK
+07-24 17:59:40.606 20791 20791 E TEST_AND_ADD_android.sensor.info.physicalSize [ID = 5]: OK
+07-24 17:59:40.606 20791 20791 E LOGICAL_LENS [ID = 5]: REMOVED
+07-24 17:59:40.607 20791 20791 E TEST_getBit [ID = 6]: OK
+07-24 17:59:40.607 20791 20791 E TEST_colorFilterArrangement [ID = 6]: OK because = 0
+07-24 17:59:40.607 20791 20791 E TEST_AND_ADD_android.control.aeAvailableModes [ID = 6]: OK
+07-24 17:59:40.607 20791 20791 E TEST_AND_ADD_android.lens.info.availableFocalLengths [ID = 6]: OK
+07-24 17:59:40.607 20791 20791 E TEST_AND_ADD_android.lens.info.availableApertures [ID = 6]: OK
+07-24 17:59:40.607 20791 20791 E TEST_AND_ADD_android.sensor.info.physicalSize [ID = 6]: OK
+07-24 17:59:40.607 20791 20791 E LOGICAL_LENS [ID = 6]: REMOVED
+07-24 17:59:40.607 20791 20791 E TEST_getBit [ID = 7]: OK
+07-24 17:59:40.607 20791 20791 E TEST_colorFilterArrangement [ID = 7]: OK because = 0
+07-24 17:59:40.607 20791 20791 E TEST_AND_ADD_android.control.aeAvailableModes [ID = 7]: OK
+07-24 17:59:40.608 20791 20791 E TEST_AND_ADD_android.lens.info.availableFocalLengths [ID = 7]: OK
+07-24 17:59:40.608 20791 20791 E TEST_AND_ADD_android.lens.info.availableApertures [ID = 7]: OK
+07-24 17:59:40.608 20791 20791 E TEST_AND_ADD_android.sensor.info.physicalSize [ID = 7]: OK
+07-24 17:59:40.608 20791 20791 E LOGICAL_LENS [ID = 7]: REMOVED
+07-24 17:59:40.608 20791 20791 E TEST_getBit [ID = 8]: OK
+07-24 17:59:40.608 20791 20791 E TEST_colorFilterArrangement [ID = 8]: OK because = 2
+07-24 17:59:40.608 20791 20791 E TEST_AND_ADD_android.control.aeAvailableModes [ID = 8]: OK
+07-24 17:59:40.608 20791 20791 E TEST_AND_ADD_android.lens.info.availableFocalLengths [ID = 8]: OK
+07-24 17:59:40.608 20791 20791 E TEST_AND_ADD_android.lens.info.availableApertures [ID = 8]: OK
+07-24 17:59:40.608 20791 20791 E TEST_AND_ADD_android.sensor.info.physicalSize [ID = 8]: OK
+07-24 17:59:40.608 20791 20791 E LOGICAL_LENS [ID = 8]: REMOVED
+07-24 17:59:40.609 20791 20791 E LENS [ID = 9]: NOT_EXIST
+07-24 17:59:40.609 20791 20791 E LENS [ID = 10]: NOT_EXIST
+07-24 17:59:40.609 20791 20791 E LENS [ID = 11]: NOT_EXIST
+07-24 17:59:40.610 20791 20791 E LENS [ID = 12]: NOT_EXIST
+07-24 17:59:40.610 20791 20791 E LENS [ID = 13]: NOT_EXIST
+07-24 17:59:40.610 20791 20791 E LENS [ID = 14]: NOT_EXIST
+07-24 17:59:40.611 20791 20791 E LENS [ID = 15]: NOT_EXIST
+07-24 17:59:40.611 20791 20791 E LENS [ID = 16]: NOT_EXIST
+07-24 17:59:40.611 20791 20791 E LENS [ID = 17]: NOT_EXIST
+07-24 17:59:40.611 20791 20791 E LENS [ID = 18]: NOT_EXIST
+07-24 17:59:40.612 20791 20791 E LENS [ID = 19]: NOT_EXIST
+07-24 17:59:40.612 20791 20791 E LENS [ID = 20]: NOT_EXIST
+07-24 17:59:40.612 20791 20791 E LENS [ID = 21]: NOT_EXIST
+07-24 17:59:40.612 20791 20791 E LENS [ID = 22]: NOT_EXIST
+07-24 17:59:40.613 20791 20791 E LENS [ID = 23]: NOT_EXIST
+07-24 17:59:40.613 20791 20791 E LENS [ID = 24]: NOT_EXIST
+07-24 17:59:40.613 20791 20791 E LENS [ID = 25]: NOT_EXIST
+07-24 17:59:40.613 20791 20791 E LENS [ID = 26]: NOT_EXIST
+07-24 17:59:40.614 20791 20791 E LENS [ID = 27]: NOT_EXIST
+07-24 17:59:40.614 20791 20791 E LENS [ID = 28]: NOT_EXIST
+07-24 17:59:40.614 20791 20791 E LENS [ID = 29]: NOT_EXIST
+07-24 17:59:40.615 20791 20791 E LENS [ID = 30]: NOT_EXIST
+07-24 17:59:40.615 20791 20791 E LENS [ID = 31]: NOT_EXIST
+07-24 17:59:40.615 20791 20791 E LENS [ID = 32]: NOT_EXIST
+07-24 17:59:40.615 20791 20791 E LENS [ID = 33]: NOT_EXIST
+07-24 17:59:40.616 20791 20791 E LENS [ID = 34]: NOT_EXIST
+07-24 17:59:40.616 20791 20791 E LENS [ID = 35]: NOT_EXIST
+07-24 17:59:40.616 20791 20791 E LENS [ID = 36]: NOT_EXIST
+07-24 17:59:40.616 20791 20791 E LENS [ID = 37]: NOT_EXIST
+07-24 17:59:40.617 20791 20791 E LENS [ID = 38]: NOT_EXIST
+07-24 17:59:40.617 20791 20791 E LENS [ID = 39]: NOT_EXIST
+07-24 17:59:40.617 20791 20791 E LENS [ID = 40]: NOT_EXIST
+07-24 17:59:40.617 20791 20791 E LENS [ID = 41]: NOT_EXIST
+07-24 17:59:40.618 20791 20791 E LENS [ID = 42]: NOT_EXIST
+07-24 17:59:40.618 20791 20791 E LENS [ID = 43]: NOT_EXIST
+07-24 17:59:40.618 20791 20791 E LENS [ID = 44]: NOT_EXIST
+07-24 17:59:40.618 20791 20791 E LENS [ID = 45]: NOT_EXIST
+07-24 17:59:40.619 20791 20791 E LENS [ID = 46]: NOT_EXIST
+07-24 17:59:40.619 20791 20791 E LENS [ID = 47]: NOT_EXIST
+07-24 17:59:40.619 20791 20791 E LENS [ID = 48]: NOT_EXIST
+07-24 17:59:40.620 20791 20791 E LENS [ID = 49]: NOT_EXIST
+07-24 17:59:40.620 20791 20791 E LENS [ID = 50]: NOT_EXIST
+07-24 17:59:40.620 20791 20791 E LENS [ID = 51]: NOT_EXIST
+07-24 17:59:40.620 20791 20791 E LENS [ID = 52]: NOT_EXIST
+07-24 17:59:40.620 20791 20791 E LENS [ID = 53]: NOT_EXIST
+07-24 17:59:40.621 20791 20791 E LENS [ID = 54]: NOT_EXIST
+07-24 17:59:40.621 20791 20791 E LENS [ID = 55]: NOT_EXIST
+07-24 17:59:40.621 20791 20791 E LENS [ID = 56]: NOT_EXIST
+07-24 17:59:40.621 20791 20791 E LENS [ID = 57]: NOT_EXIST
+07-24 17:59:40.621 20791 20791 E LENS [ID = 58]: NOT_EXIST
+07-24 17:59:40.622 20791 20791 E LENS [ID = 59]: NOT_EXIST
+07-24 17:59:40.622 20791 20791 E LENS [ID = 60]: NOT_EXIST
+07-24 17:59:40.622 20791 20791 E LENS [ID = 61]: NOT_EXIST
+07-24 17:59:40.622 20791 20791 E LENS [ID = 62]: NOT_EXIST
+07-24 17:59:40.623 20791 20791 E LENS [ID = 63]: NOT_EXIST
+07-24 17:59:40.623 20791 20791 E LENS [ID = 64]: NOT_EXIST
+07-24 17:59:40.623 20791 20791 E LENS [ID = 65]: NOT_EXIST
+07-24 17:59:40.623 20791 20791 E LENS [ID = 66]: NOT_EXIST
+07-24 17:59:40.624 20791 20791 E LENS [ID = 67]: NOT_EXIST
+07-24 17:59:40.624 20791 20791 E LENS [ID = 68]: NOT_EXIST
+07-24 17:59:40.624 20791 20791 E LENS [ID = 69]: NOT_EXIST
+07-24 17:59:40.624 20791 20791 E LENS [ID = 70]: NOT_EXIST
+07-24 17:59:40.625 20791 20791 E LENS [ID = 71]: NOT_EXIST
+07-24 17:59:40.625 20791 20791 E LENS [ID = 72]: NOT_EXIST
+07-24 17:59:40.625 20791 20791 E LENS [ID = 73]: NOT_EXIST
+07-24 17:59:40.625 20791 20791 E LENS [ID = 74]: NOT_EXIST
+07-24 17:59:40.626 20791 20791 E LENS [ID = 75]: NOT_EXIST
+07-24 17:59:40.626 20791 20791 E LENS [ID = 76]: NOT_EXIST
+07-24 17:59:40.626 20791 20791 E LENS [ID = 77]: NOT_EXIST
+07-24 17:59:40.627 20791 20791 E LENS [ID = 78]: NOT_EXIST
+07-24 17:59:40.627 20791 20791 E LENS [ID = 79]: NOT_EXIST
+07-24 17:59:40.627 20791 20791 E LENS [ID = 80]: NOT_EXIST
+07-24 17:59:40.627 20791 20791 E LENS [ID = 81]: NOT_EXIST
+07-24 17:59:40.628 20791 20791 E LENS [ID = 82]: NOT_EXIST
+07-24 17:59:40.628 20791 20791 E LENS [ID = 83]: NOT_EXIST
+07-24 17:59:40.628 20791 20791 E LENS [ID = 84]: NOT_EXIST
+07-24 17:59:40.628 20791 20791 E LENS [ID = 85]: NOT_EXIST
+07-24 17:59:40.629 20791 20791 E LENS [ID = 86]: NOT_EXIST
+07-24 17:59:40.629 20791 20791 E LENS [ID = 87]: NOT_EXIST
+07-24 17:59:40.629 20791 20791 E LENS [ID = 88]: NOT_EXIST
+07-24 17:59:40.630 20791 20791 E LENS [ID = 89]: NOT_EXIST
+07-24 17:59:40.630 20791 20791 E LENS [ID = 90]: NOT_EXIST
+07-24 17:59:40.630 20791 20791 E LENS [ID = 91]: NOT_EXIST
+07-24 17:59:40.630 20791 20791 E LENS [ID = 92]: NOT_EXIST
+07-24 17:59:40.631 20791 20791 E LENS [ID = 93]: NOT_EXIST
+07-24 17:59:40.631 20791 20791 E LENS [ID = 94]: NOT_EXIST
+07-24 17:59:40.631 20791 20791 E LENS [ID = 95]: NOT_EXIST
+07-24 17:59:40.631 20791 20791 E LENS [ID = 96]: NOT_EXIST
+07-24 17:59:40.632 20791 20791 E LENS [ID = 97]: NOT_EXIST
+07-24 17:59:40.632 20791 20791 E LENS [ID = 98]: NOT_EXIST
+07-24 17:59:40.632 20791 20791 E LENS [ID = 99]: NOT_EXIST
+07-24 17:59:40.632 20791 20791 E LENS [ID = 100]: NOT_EXIST
+07-24 17:59:40.632 20791 20791 E LENS [ID = 101]: NOT_EXIST
+07-24 17:59:40.633 20791 20791 E LENS [ID = 102]: NOT_EXIST
+07-24 17:59:40.633 20791 20791 E LENS [ID = 103]: NOT_EXIST
+07-24 17:59:40.633 20791 20791 E LENS [ID = 104]: NOT_EXIST
+07-24 17:59:40.633 20791 20791 E LENS [ID = 105]: NOT_EXIST
+07-24 17:59:40.633 20791 20791 E LENS [ID = 106]: NOT_EXIST
+07-24 17:59:40.633 20791 20791 E LENS [ID = 107]: NOT_EXIST
+07-24 17:59:40.634 20791 20791 E LENS [ID = 108]: NOT_EXIST
+07-24 17:59:40.634 20791 20791 E LENS [ID = 109]: NOT_EXIST
+07-24 17:59:40.634 20791 20791 E LENS [ID = 110]: NOT_EXIST
+07-24 17:59:40.634 20791 20791 E LENS [ID = 111]: NOT_EXIST
+07-24 17:59:40.635 20791 20791 E LENS [ID = 112]: NOT_EXIST
+07-24 17:59:40.635 20791 20791 E LENS [ID = 113]: NOT_EXIST
+07-24 17:59:40.635 20791 20791 E LENS [ID = 114]: NOT_EXIST
+07-24 17:59:40.635 20791 20791 E LENS [ID = 115]: NOT_EXIST
+07-24 17:59:40.636 20791 20791 E LENS [ID = 116]: NOT_EXIST
+07-24 17:59:40.636 20791 20791 E LENS [ID = 117]: NOT_EXIST
+07-24 17:59:40.636 20791 20791 E LENS [ID = 118]: NOT_EXIST
+07-24 17:59:40.636 20791 20791 E LENS [ID = 119]: NOT_EXIST
+07-24 17:59:40.636 20791 20791 E FOUND_LENSES:  [ 0 1 3 4 ]
+07-24 17:59:40.636 20791 20791 E SORTS_LENSES:  [ 3 4 0 1 ]
+07-24 17:59:40.636 20791 20791 E AFTER_HIDING_LENSES:  [ 3 4 0 1 ]
+07-24 17:59:40.639 20791 20791 E TOGGLE_DISTRIBUTION_BACK_LENSES:  [ 3 4 0 ]
+07-24 17:59:40.639 20791 20791 E TOGGLE_DISTRIBUTION_FRONT_LENSES:  [ 1 ]
+07-24 17:59:40.709 20791 20825 E ACTIVE_LENSES: 4 1
+07-24 17:59:40.713 20791 20791 W CAM_Log : Tag ConfigGserviceSource is 1 chars longer than limit.
+07-24 17:59:40.714 20791 20824 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+07-24 17:59:40.715 20791 20824 W VideoCapabilities: Unrecognized profile/level 0/3 for video/mpeg2
+07-24 17:59:40.715 20791 20824 W VideoCapabilities: Unrecognized profile/level 0/3 for video/mpeg2
+07-24 17:59:40.716 20791 20824 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+07-24 17:59:40.720 20791 20791 W GET camera ID : 4
+07-24 17:59:40.720 20791 20791 I chatty  : uid=10266(org.codeaurora.snapcam) identical 1 line
+07-24 17:59:40.720 20791 20791 W GET camera ID : 4
+07-24 17:59:40.724 20791 20827 W eaurora.snapca: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (greylist-max-o, reflection, denied)
+07-24 17:59:40.725 20791 20827 W eaurora.snapca: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (greylist-max-o, reflection, denied)
+07-24 17:59:40.725 20791 20827 W eaurora.snapca: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (greylist-max-o, reflection, denied)
+07-24 17:59:40.731 20791 20825 W GET camera ID : 4
+07-24 17:59:40.734 20791 20791 W HDR+_command : CAM_ActivityStartup
+07-24 17:59:40.734 20791 20791 I chatty  : uid=10266(org.codeaurora.snapcam) identical 2 lines
+07-24 17:59:40.734 20791 20791 W HDR+_command : CAM_ActivityStartup
+07-24 17:59:40.737 20791 20828 W HDR+_command : CAM_ActivityStartup
+07-24 17:59:40.739 20791 20825 D PatcherAddreses: exportAddres:14739140
+07-24 17:59:40.741 20791 20791 I MiuiMultiWindowUtils: isSupportMultiSwitchFeature = false
+07-24 17:59:40.742 20791 20825 W GET camera ID : 4
+07-24 17:59:40.746 20791 20828 W HDR+_command : CAM_ActivityStartup
+07-24 17:59:40.753 20791 20828 E ACTIVE_LENSES: 4 1
+07-24 17:59:40.753 20791 20825 E ACTIVE_LENSES: 4 1
+07-24 17:59:40.754 20791 20791 I WebViewFactory: Loading com.google.android.webview version 87.0.4280.141 (code 428014133)
+07-24 17:59:40.756 20791 20824 W CAM_StorageModule: Build number (V12.0.3.0.RJUIDXM) is not a number. Ignoring version check for b/149569689.
+07-24 17:59:40.756 20791 20825 W HDR+_command : CAM_CameraMetadata
+07-24 17:59:40.756 20791 20824 E ACTIVE_LENSES: 4 1
+07-24 17:59:40.757 20791 20825 W HDR+_command : CAM_CameraMetadata
+07-24 17:59:40.758 20791 20824 W HDR+_command : CAM_ActivityStartup
+07-24 17:59:40.762 20791 20791 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/data/app/~~6t2VG5UK5LgmmjsGJiXBEQ==/com.google.android.webview-HsBNBqC9Bt3xJwzLnhPWOg==/lib/arm64:/data/app/~~6t2VG5UK5LgmmjsGJiXBEQ==/com.google.android.webview-HsBNBqC9Bt3xJwzLnhPWOg==/base.apk!/lib/arm64-v8a:/data/app/~~6t2VG5UK5LgmmjsGJiXBEQ==/com.google.android.webview-HsBNBqC9Bt3xJwzLnhPWOg==/split_config.en.apk!/lib/arm64-v8a:/product/app/TrichromeLibrary/TrichromeLibrary.apk!/lib/arm64-v8a:/product/lib64:/system/product/lib64
+07-24 17:59:40.765 20791 20830 W CAM_ResolutionSettings: Picture size setting is not set. Selecting fallback: 1600x1200
+07-24 17:59:40.765 20791 20830 W HDR+_command : CAM_CptModuleCfgBldr
+07-24 17:59:40.768 20791 20830 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:40.768 20791 20830 W HDR+_command : CAM_ActivityStartup
+07-24 17:59:40.768 20791 20830 W HDR+_command : CAM_ActivityStartup
+07-24 17:59:40.770 20791 20830 W GET camera ID : 4
+07-24 17:59:40.770 20791 20830 W GET camera ID : 4
+07-24 17:59:40.770 20791 20830 W CAM_Log : Tag PckStreamConfigModule is 2 chars longer than limit.
+07-24 17:59:40.773 20791 20830 E libc    : Access denied finding property "ro.vendor.df.effect.conflict"
+07-24 17:59:40.774 20791 20830 E libc    : Access denied finding property "ro.vendor.knock.type"
+07-24 17:59:40.774 20791 20830 W GET camera ID : 4
+07-24 17:59:40.776 20791 20830 W CAM_DeviceErrorBroadcas: Tag DeviceErrorBroadcaster is 3 chars longer than limit.
+07-24 17:59:40.779 20791 20835 E libc    : Access denied finding property "persist.vendor.camera.privapp.list"
+07-24 17:59:40.782 20791 20830 W HDR+_command : CAM_PRIVATEw1440
+07-24 17:59:40.783 20791 20830 W HDR+_command : CAM_PRIVATEw1440
+07-24 17:59:40.784 20791 20830 W HDR+_command : CAM_YUV_420_888w1280
+07-24 17:59:40.784 20791 20830 W HDR+_command : CAM_YUV_420_888w1280
+07-24 17:59:40.785 20791 20830 W HDR+_command : CAM_RAW10w1600
+07-24 17:59:40.785 20791 20830 W HDR+_command : CAM_RAW10w1600
+07-24 17:59:40.786 20791 20830 W GET camera ID : 4
+07-24 17:59:40.787 20791 20830 W HDR+_command : CAM_FrameServerLock
+07-24 17:59:40.787 20791 20830 W HDR+_command : CAM_CamDeviceWakelock
+07-24 17:59:40.787 20791 20830 W HDR+_command : CAM_FrameServer
+07-24 17:59:40.787 20791 20830 W HDR+_command : CAM_FrameServer
+07-24 17:59:40.788 20791 20830 I chatty  : uid=10266(org.codeaurora.snapcam) CriticalPath identical 8 lines
+07-24 17:59:40.788 20791 20830 W HDR+_command : CAM_FrameServer
+07-24 17:59:40.788 20791 20830 W HDR+_command : CAM_CameraOpener
+07-24 17:59:40.788 20791 20830 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:40.788 20791 20830 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:40.788 20791 20830 W HDR+_command : CAM_FrameServer
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: QUALCOMM build                   : 3142bdd, I7afe4835b7
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: Build Date                       : 09/22/20
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.00
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: Local Branch                     : mybrancheafcbb65-f91c-f1f0-b516-1458d0b52af0
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: Remote Branch                    : quic/gfx-adreno.lnx.1.0.r99-rel
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: Remote Branch                    : NONE
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: Build Config                     : S P 10.0.6 AArch64
+07-24 17:59:40.791 20791 20836 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+07-24 17:59:40.792 20791 20830 E qyv     : Android Q or higher required.
+07-24 17:59:40.792 20791 20830 W GET camera ID : 4
+07-24 17:59:40.793 20791 20830 W GET camera ID : 4
+07-24 17:59:40.793 20791 20830 I chatty  : uid=10266(org.codeaurora.snapcam) CriticalPath identical 1 line
+07-24 17:59:40.793 20791 20830 W GET camera ID : 4
+07-24 17:59:40.802 20791 20836 I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+07-24 17:59:40.805 20791 20835 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:40.805 20791 20835 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:40.805 20791 20830 W GET camera ID : 4
+07-24 17:59:40.806 20791 20830 I chatty  : uid=10266(org.codeaurora.snapcam) CriticalPath identical 4 lines
+07-24 17:59:40.806 20791 20830 W GET camera ID : 4
+07-24 17:59:40.809 20791 20830 W qyv     : PIXEL_AWB didn't work
+07-24 17:59:40.809 20791 20830 W FIX_SENSOR_INFO_PHYSICAL_SIZE_getWidth: 1.6
+07-24 17:59:40.809 20791 20830 W FIX_SENSOR_INFO_PHYSICAL_SIZE_getHeight: 1.2
+07-24 17:59:40.809 20791 20830 W FIX_SENSOR_INFO_PIXEL_ARRAY_SIZE_getWidth: 1601
+07-24 17:59:40.809 20791 20830 W FIX_SENSOR_INFO_PIXEL_ARRAY_SIZE_getHeight: 1201
+07-24 17:59:40.812 20791 20830 W qyv     : PIXEL_AWB didn't work
+07-24 17:59:40.812 20791 20830 W FIX_SENSOR_INFO_PHYSICAL_SIZE_getWidth: 2.592
+07-24 17:59:40.812 20791 20830 W FIX_SENSOR_INFO_PHYSICAL_SIZE_getHeight: 1.94
+07-24 17:59:40.812 20791 20830 W FIX_SENSOR_INFO_PIXEL_ARRAY_SIZE_getWidth: 2593
+07-24 17:59:40.812 20791 20830 W FIX_SENSOR_INFO_PIXEL_ARRAY_SIZE_getHeight: 1941
+07-24 17:59:40.813 20791 20830 W HDR+_command : CAM_HexagonEnv
+07-24 17:59:40.817 20791 20835 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:40.818 20791 20835 E libc    : Access denied finding property "persist.vendor.camera.privapp.list"
+07-24 17:59:40.819 20791 20830 I org.codeaurora.snapcam: vendor/qcom/proprietary/commonsys-intf/adsprpc/src/rpcmem_android.c:141: rpcmem_init_internal: opened ION device fd 112, configured heap IDs: system (0x2000000), contig (0x400000), secure (0x200), secure flags (0x80080000)
+07-24 17:59:40.819 20791 20830 I org.codeaurora.snapcam: vendor/qcom/proprietary/commonsys-intf/adsprpc/src/fastrpc_apps_user.c:2736: fastrpc_apps_user_init done
+07-24 17:59:40.819 20791 20830 W HDR+_command : CAM_HexagonEnv
+07-24 17:59:40.820 20791 20791 I cr_LibraryLoader: Loaded native library version number "87.0.4280.141"
+07-24 17:59:40.820 20791 20791 I cr_CachingUmaRecorder: Flushed 5 samples from 5 histograms.
+07-24 17:59:40.822 20791 20830 W GET camera ID : 4
+07-24 17:59:40.822 20791 20791 I TetheringManager: registerTetheringEventCallback:org.codeaurora.snapcam
+07-24 17:59:40.824 20791 20830 E qyv     : Android Q or higher required.
+07-24 17:59:40.824 20791 20830 W GET camera ID : 4
+07-24 17:59:40.825 20791 20830 W GET camera ID : 4
+07-24 17:59:40.825 20791 20830 W GET camera ID : 4
+07-24 17:59:40.825 20791 20830 W GET camera ID : 4
+07-24 17:59:40.846 20791 20835 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:40.847 20791 20835 W HDR+_command : CAM_CameraDeviceState
+07-24 17:59:40.848 20791 20835 W HDR+_command : CAM_SessionOpener
+07-24 17:59:40.850 20791 20830 W GET camera ID : 4
+07-24 17:59:40.850 20791 20830 I chatty  : uid=10266(org.codeaurora.snapcam) CriticalPath identical 4 lines
+07-24 17:59:40.850 20791 20830 W GET camera ID : 4
+07-24 17:59:40.851 20791 20830 W HDR+_command : CAM_PictureTakerModule
+07-24 17:59:40.851 20791 20830 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:40.851 20791 20830 W HDR+_command : CAM_FrameBufferMap
+07-24 17:59:40.851 20791 20830 W HDR+_command : CAM_RequestQueue
+07-24 17:59:40.852 20791 20830 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:40.852 20791 20830 W HDR+_command : CAM_FrameBufferMap
+07-24 17:59:40.852 20791 20830 W HDR+_command : CAM_RequestQueue
+07-24 17:59:40.853 20791 20830 W HDR+_command : CAM_PckOneCamera-0
+07-24 17:59:40.853 20791 20830 W HDR+_command : CAM_FrameServer
+07-24 17:59:40.853 20791 20830 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:40.853 20791 20830 W HDR+_command : CAM_FrameBufferMap
+07-24 17:59:40.853 20791 20830 W HDR+_command : CAM_RequestQueue
+07-24 17:59:40.854 20791 20830 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:40.854 20791 20830 W HDR+_command : CAM_FrameBufferMap
+07-24 17:59:40.854 20791 20830 W HDR+_command : CAM_RequestQueue
+07-24 17:59:40.857 20791 20824 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:40.857 20791 20824 W HDR+_command : CAM_FrameBufferMap
+07-24 17:59:40.857 20791 20824 W HDR+_command : CAM_RequestQueue
+07-24 17:59:40.861 20791 20876 W CAPTURE_REQUEST_MAP_ADD : android.control.afTrigger
+07-24 17:59:40.863 20791 20830 W CAM_DebugCanvasAdapter: UI view not yet initialized
+07-24 17:59:40.866 20791 20824 E qyv     : Android Q or higher required.
+07-24 17:59:40.866 20791 20824 W GET camera ID : 4
+07-24 17:59:40.867 20791 20824 I chatty  : uid=10266(org.codeaurora.snapcam) GcaGeneric-1 identical 2 lines
+07-24 17:59:40.867 20791 20824 W GET camera ID : 4
+07-24 17:59:40.871 20791 20876 W CAPTURE_REQUEST_MAP_ADD : android.control.afTrigger
+07-24 17:59:40.874 20791 20824 W GET camera ID : 4
+07-24 17:59:40.874 20791 20824 I chatty  : uid=10266(org.codeaurora.snapcam) GcaGeneric-1 identical 4 lines
+07-24 17:59:40.874 20791 20824 W GET camera ID : 4
+07-24 17:59:40.876 20791 20824 W HDR+_command : CAM_PckHdrPImgCapCmd
+07-24 17:59:40.877 20791 20830 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:40.878 20791 20824 W HDR+_command : CAM_PckHdrPImgCapCmd
+07-24 17:59:40.878 20791 20824 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:40.878 20791 20824 W CAM_Log : Tag SceneDistanceAdviceSettings is 8 chars longer than limit.
+07-24 17:59:40.879 20791 20824 W HDR+_command : CAM_FrameBufferMap
+07-24 17:59:40.879 20791 20824 W HDR+_command : CAM_RequestQueue
+07-24 17:59:40.881 20791 20824 W HDR+_command : CAM_ImgCptrCmdReady
+07-24 17:59:40.939 20791 20791 D EgretLoader: EgretLoader(Context context)
+07-24 17:59:40.940 20791 20791 D EgretLoader: The context is not activity
+07-24 17:59:40.953 20791 20835 W HDR+_command : CAM_SimpleReqProcessor
+07-24 17:59:40.957 20791 20835 E ERROR   : Failed to set audio restriction on camera device.
+07-24 17:59:40.958 20791 20844 W HDR+_command : CAM_CaptureSessionState
+07-24 17:59:40.958 20791 20844 W HDR+_command : CAM_CaptureSessionState
+07-24 17:59:40.991 20791 20791 W CAM_Log : Tag ShutterBtnProgressOverlay is 6 chars longer than limit.
+07-24 17:59:40.997 20791 20791 W HDR+_command : CAM_ActivityUiStartup
+07-24 17:59:40.997 20791 20791 I chatty  : uid=10266(org.codeaurora.snapcam) identical 1 line
+07-24 17:59:40.997 20791 20791 W HDR+_command : CAM_ActivityUiStartup
+07-24 17:59:40.997 20791 20828 W HDR+_command : CAM_ActivityUiStartup
+07-24 17:59:40.998 20791 20828 W HDR+_command : CAM_Viewfinder
+07-24 17:59:41.001 20791 20791 W HDR+_command : CAM_CamDeviceWakelock
+07-24 17:59:41.007 20791 20828 W CAM_Log : Tag ZoomLockViewController is 3 chars longer than limit.
+07-24 17:59:41.007 20791 20828 W CAM_Log : Tag ShutterButtonAnimator is 2 chars longer than limit.
+07-24 17:59:41.021 20791 20828 W CAM_Log : Tag LongExposureStatechart is 3 chars longer than limit.
+07-24 17:59:41.025 20791 20828 W CAM_Log : Tag MediaStoreDataLoader is 1 chars longer than limit.
+07-24 17:59:41.026 20791 20791 W ContentCatcher: Failed to notify a WebView
+07-24 17:59:41.073 20791 20791 W CAM_SlfUpdTemperature: Was already registered as ThermalStatusListener on AppStart
+07-24 17:59:41.123 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.127 20791 20933 W CAM_VfeFrmSvr: Aborting frame processing:BufferFlinger or outputSize isn't available.
+07-24 17:59:41.128 20791 20843 E native  : gyro.cc:304 timestamp 1203715089031494 invalid
+07-24 17:59:41.128 20791 20843 E native  : gyro.cc:431 error getting quat at time 1203715089031494
+07-24 17:59:41.128 20791 20843 E native  : gyro_stabilization_jni.cc:138 Cannot get the projection matrix.
+07-24 17:59:41.128 20791 20843 W CAM_GyroQueue: Projection matrix could not be computed for timestamp = 1203715089031494
+07-24 17:59:41.128 20791 20843 W GyroTransformCalc: Previous or current projection matrix cannot be computed. Defaulting to identity
+07-24 17:59:41.129 20791 20843 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:41.131 20791 20934 E OisListener: Null pointer for OIS data. OIS API version: 2
+07-24 17:59:41.141 20791 20843 W CAM_Log : Tag DeviceStabilitySmplr is 1 chars longer than limit.
+07-24 17:59:41.141 20791 20825 I tflite  : Initialized TensorFlow Lite runtime.
+07-24 17:59:41.160 20791 20791 W CAM_Log : Tag HdrPlusTemperatureListener is 7 chars longer than limit.
+07-24 17:59:41.165 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.165 20791 20791 W CAM_ModeSwitcher: ModeSwitcher WAS ALREADY ENABLED!
+07-24 17:59:41.169 20791 20791 W HDR+_command : CAM_CptModuleCfgBldr
+07-24 17:59:41.173 20791 20791 W HDR+_command : CAM_ActivityUiStartup
+07-24 17:59:41.173 20791 20791 W HDR+_command : CAM_Viewfinder
+07-24 17:59:41.173 20791 20791 I chatty  : uid=10266(org.codeaurora.snapcam) identical 1 line
+07-24 17:59:41.173 20791 20791 W HDR+_command : CAM_Viewfinder
+07-24 17:59:41.182 20791 20835 W HDR+_command : CAM_AudioRestrictApi
+07-24 17:59:41.188 20791 20884 W cr_media: Requires BLUETOOTH permission
+07-24 17:59:41.211 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.216 20791 20791 W View    : requestLayout() improperly called by pud{bc891c5 VFED..C.. ......ID 387,11-692,142} during layout: running second layout pass
+07-24 17:59:41.218 20791 20791 D SurfaceView: UPDATE null, mIsCastMode = false
+07-24 17:59:41.220 20791 20791 W HDR+_command : CAM_ViewfinderSV0
+07-24 17:59:41.221 20791 20791 I chatty  : uid=10266(org.codeaurora.snapcam) identical 2 lines
+07-24 17:59:41.221 20791 20791 W HDR+_command : CAM_ViewfinderSV0
+07-24 17:59:41.222 20791 20791 D SurfaceView: UPDATE Surface(name=SurfaceView - org.codeaurora.snapcam/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity)/@0x127a404, mIsProjectionMode = false
+07-24 17:59:41.240 20791 20791 W HDR+_command : CAM_PckOneCamera-0
+07-24 17:59:41.241 20791 20791 W CAM_Log : Tag SmartsGestureListener is 2 chars longer than limit.
+07-24 17:59:41.241 20791 20824 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:41.241 20791 20824 W HDR+_command : CAM_FrameBufferMap
+07-24 17:59:41.242 20791 20824 W HDR+_command : CAM_RequestQueue
+07-24 17:59:41.242 20791 20791 W CAM_ModeSwitcher: ModeSwitcher WAS ALREADY ENABLED!
+07-24 17:59:41.245 20791 20824 W FeatureExtractors: Extractor (frame) of type feature.acmi.imu.frame-straightness depends on foreign type feature.acmi.imu.camera-orientation! Feature values may be calculated out of order!
+07-24 17:59:41.245 20791 20824 W FeatureExtractors: Extractor (frame) of type feature.acmi.imu.frame-straightness depends on foreign type feature.acmi.imu.camera-orientation! Feature values may be calculated out of order!
+07-24 17:59:41.265 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.270 20791 20791 W HDR+_command : CAM_ActivityUiStartup
+07-24 17:59:41.270 20791 20791 W HDR+_command : CAM_ActivityUiStartup
+07-24 17:59:41.271 20791 20968 W HDR+_command : Generic
+07-24 17:59:41.272 20791 20825 W CAM_CameraDeviceVerifie: Tag CameraDeviceVerifier is 1 chars longer than limit.
+07-24 17:59:41.272 20791 20824 W HDR+_command : CAM_ShotTracker
+07-24 17:59:41.273 20791 20824 W CAM_ShotTracker: best effort failed to fetch unfinished shots: java.util.concurrent.ExecutionException: java.lang.NullPointerException: Attempt to read from field 'ai ddu.a' on a null object reference
+07-24 17:59:41.273 20791 20824 W HDR+_command : CAM_CptrIndDskCsh
+07-24 17:59:41.274 20791 20824 E ACTIVE_LENSES: 4 1
+07-24 17:59:41.276 20791 20825 E ACTIVE_LENSES: 4 1
+07-24 17:59:41.276 20791 20824 W CAM_HdrPlusPrewarm: Failed to set mallopt options.
+07-24 17:59:41.282 20791 20828 W CAM_Log : Tag LensLiteTemperatureListener is 8 chars longer than limit.
+07-24 17:59:41.284 20791 20958 W HDR+_command : CAM_FrameStreamMap
+07-24 17:59:41.284 20791 20958 W HDR+_command : CAM_FrameBufferMap
+07-24 17:59:41.285 20791 20958 W HDR+_command : CAM_RequestQueue
+07-24 17:59:41.295 20791 20958 D AudioRecord: set(): inputSource 5, sampleRate 48000, format 0x1, channelMask 0xc, frameCount 3840, notificationFrames 0, sessionId 0, transferType 0, flags 0, opPackageName org.codeaurora.snapcam uid -1, pid -1
+07-24 17:59:41.309 20791 20978 D CCodec  : allocate(c2.android.vorbis.decoder)
+07-24 17:59:41.310 20791 20977 D CCodec  : allocate(c2.android.vorbis.decoder)
+07-24 17:59:41.315 20791 20978 I Codec2Client: Available Codec2 services: "default" "software"
+07-24 17:59:41.321 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.326 20791 20977 I CCodec  : setting up 'default' as default (vendor) store
+07-24 17:59:41.326 20791 20978 I CCodec  : setting up 'default' as default (vendor) store
+07-24 17:59:41.334 20791 20978 I CCodec  : Created component [c2.android.vorbis.decoder]
+07-24 17:59:41.335 20791 20978 D CCodecConfig: read media type: audio/vorbis
+07-24 17:59:41.336 20791 20978 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+07-24 17:59:41.336 20791 20978 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+07-24 17:59:41.336 20791 20978 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+07-24 17:59:41.336 20791 20978 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+07-24 17:59:41.337 20791 20978 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+07-24 17:59:41.337 20791 20978 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+07-24 17:59:41.337 20791 20978 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+07-24 17:59:41.337 20791 20977 I CCodec  : Created component [c2.android.vorbis.decoder]
+07-24 17:59:41.337 20791 20977 D CCodecConfig: read media type: audio/vorbis
+07-24 17:59:41.337 20791 20978 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+07-24 17:59:41.338 20791 20978 D CCodecConfig: c2 config diff is Dict {
+07-24 17:59:41.338 20791 20978 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+07-24 17:59:41.338 20791 20978 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+07-24 17:59:41.338 20791 20978 D CCodecConfig:   c2::u32 input.delay.value = 0
+07-24 17:59:41.338 20791 20978 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+07-24 17:59:41.338 20791 20978 D CCodecConfig:   string output.media-type.value = "audio/raw"
+07-24 17:59:41.338 20791 20978 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+07-24 17:59:41.338 20791 20978 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+07-24 17:59:41.338 20791 20978 D CCodecConfig: }
+07-24 17:59:41.338 20791 20978 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+07-24 17:59:41.338 20791 20978 D CCodecConfig: no c2 equivalents for durationUs
+07-24 17:59:41.338 20791 20978 D CCodecConfig: no c2 equivalents for track-id
+07-24 17:59:41.338 20791 20978 D CCodecConfig: no c2 equivalents for csd-1
+07-24 17:59:41.338 20791 20978 D CCodecConfig: no c2 equivalents for language
+07-24 17:59:41.338 20791 20978 D CCodecConfig: no c2 equivalents for file-format
+07-24 17:59:41.338 20791 20978 D CCodecConfig: no c2 equivalents for flags
+07-24 17:59:41.338 20791 20978 D CCodecConfig: config failed => CORRUPTED
+07-24 17:59:41.338 20791 20978 W Codec2Client: query -- param skipped: index = 1107298332.
+07-24 17:59:41.338 20791 20978 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+07-24 17:59:41.338 20791 20978 D CCodec  :   int32_t channel-count = 1
+07-24 17:59:41.338 20791 20978 D CCodec  :   int32_t max-input-size = 65307
+07-24 17:59:41.338 20791 20978 D CCodec  :   string mime = "audio/vorbis"
+07-24 17:59:41.338 20791 20978 D CCodec  :   int32_t sample-rate = 48000
+07-24 17:59:41.338 20791 20978 D CCodec  : } and output: AMessage(what = 0x00000000) = {
+07-24 17:59:41.338 20791 20978 D CCodec  :   int32_t channel-count = 1
+07-24 17:59:41.338 20791 20978 D CCodec  :   string mime = "audio/raw"
+07-24 17:59:41.338 20791 20978 D CCodec  :   int32_t sample-rate = 48000
+07-24 17:59:41.338 20791 20978 D CCodec  : }
+07-24 17:59:41.339 20791 20791 W CAM_OptionsBarCtlr2: Tried to get MenuOption for property ipe@3099b57 with value false but value wasn't found in map. Returning default instead: UNKNOWN
+07-24 17:59:41.339 20791 20791 W CAM_OptionsBarCtlr2: Property value false is not associated with a MenuOption.
+07-24 17:59:41.339 20791 20977 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+07-24 17:59:41.339 20791 20791 W CAM_OptionsBarCtlr2: Tried to get MenuOption for property ipe@4b5d644 with value false but value wasn't found in map. Returning default instead: UNKNOWN
+07-24 17:59:41.339 20791 20791 W CAM_OptionsBarCtlr2: Property value false is not associated with a MenuOption.
+07-24 17:59:41.339 20791 20977 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+07-24 17:59:41.339 20791 20977 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+07-24 17:59:41.339 20791 20977 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+07-24 17:59:41.339 20791 20977 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+07-24 17:59:41.339 20791 20977 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+07-24 17:59:41.340 20791 20977 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+07-24 17:59:41.340 20791 20977 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+07-24 17:59:41.340 20791 20977 D CCodecConfig: c2 config diff is Dict {
+07-24 17:59:41.340 20791 20977 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+07-24 17:59:41.340 20791 20977 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+07-24 17:59:41.340 20791 20977 D CCodecConfig:   c2::u32 input.delay.value = 0
+07-24 17:59:41.340 20791 20977 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+07-24 17:59:41.340 20791 20977 D CCodecConfig:   string output.media-type.value = "audio/raw"
+07-24 17:59:41.340 20791 20977 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+07-24 17:59:41.340 20791 20977 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+07-24 17:59:41.340 20791 20977 D CCodecConfig: }
+07-24 17:59:41.340 20791 20977 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+07-24 17:59:41.340 20791 20977 D CCodecConfig: no c2 equivalents for durationUs
+07-24 17:59:41.340 20791 20977 D CCodecConfig: no c2 equivalents for track-id
+07-24 17:59:41.341 20791 20977 D CCodecConfig: no c2 equivalents for csd-1
+07-24 17:59:41.341 20791 20977 D CCodecConfig: no c2 equivalents for language
+07-24 17:59:41.341 20791 20977 D CCodecConfig: no c2 equivalents for file-format
+07-24 17:59:41.341 20791 20977 D CCodecConfig: no c2 equivalents for flags
+07-24 17:59:41.341 20791 20977 D CCodecConfig: config failed => CORRUPTED
+07-24 17:59:41.341 20791 20977 W Codec2Client: query -- param skipped: index = 1107298332.
+07-24 17:59:41.341 20791 20977 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+07-24 17:59:41.341 20791 20977 D CCodec  :   int32_t channel-count = 1
+07-24 17:59:41.341 20791 20977 D CCodec  :   int32_t max-input-size = 65307
+07-24 17:59:41.341 20791 20977 D CCodec  :   string mime = "audio/vorbis"
+07-24 17:59:41.341 20791 20977 D CCodec  :   int32_t sample-rate = 48000
+07-24 17:59:41.341 20791 20977 D CCodec  : } and output: AMessage(what = 0x00000000) = {
+07-24 17:59:41.341 20791 20977 D CCodec  :   int32_t channel-count = 1
+07-24 17:59:41.341 20791 20977 D CCodec  :   string mime = "audio/raw"
+07-24 17:59:41.341 20791 20977 D CCodec  :   int32_t sample-rate = 48000
+07-24 17:59:41.341 20791 20977 D CCodec  : }
+07-24 17:59:41.341 20791 20978 W Codec2Client: query -- param skipped: index = 1342179345.
+07-24 17:59:41.341 20791 20978 W Codec2Client: query -- param skipped: index = 2415921170.
+07-24 17:59:41.342 20791 20978 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.342 20791 20978 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.342 20791 20978 D CCodecBufferChannel: [c2.android.vorbis.decoder#633] Created input block pool with allocatorID 16 => poolID 17 - OK (0)
+07-24 17:59:41.343 20791 20977 W Codec2Client: query -- param skipped: index = 1342179345.
+07-24 17:59:41.343 20791 20977 W Codec2Client: query -- param skipped: index = 2415921170.
+07-24 17:59:41.344 20791 20977 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.344 20791 20977 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.344 20791 20978 I CCodecBufferChannel: [c2.android.vorbis.decoder#633] Created output block pool with allocatorID 16 => poolID 11048 - OK
+07-24 17:59:41.344 20791 20977 D CCodecBufferChannel: [c2.android.vorbis.decoder#156] Created input block pool with allocatorID 16 => poolID 18 - OK (0)
+07-24 17:59:41.344 20791 20978 D CCodecBufferChannel: [c2.android.vorbis.decoder#633] Configured output block pool ids 11048 => OK
+07-24 17:59:41.344 20791 20978 D CCodecBufferChannel: [c2.android.vorbis.decoder#633] start: updating output delay 0
+07-24 17:59:41.344 20791 20978 E ion     : ioctl c0044901 failed with code -1: Inappropriate ioctl for device
+07-24 17:59:41.347 20791 20977 I CCodecBufferChannel: [c2.android.vorbis.decoder#156] Created output block pool with allocatorID 16 => poolID 11049 - OK
+07-24 17:59:41.347 20791 20977 D CCodecBufferChannel: [c2.android.vorbis.decoder#156] Configured output block pool ids 11049 => OK
+07-24 17:59:41.347 20791 20978 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.348 20791 20977 D CCodecBufferChannel: [c2.android.vorbis.decoder#156] start: updating output delay 0
+07-24 17:59:41.349 20791 20977 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.353 20791 20984 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.356 20791 20984 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.373 20791 20791 W GET camera ID : 4
+07-24 17:59:41.393 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.393 20791 20977 D CCodecBufferChannel: [c2.android.vorbis.decoder#156] MediaCodec discarded an unknown buffer
+07-24 17:59:41.393 20791 20977 I chatty  : uid=10266(org.codeaurora.snapcam) identical 1 line
+07-24 17:59:41.393 20791 20977 D CCodecBufferChannel: [c2.android.vorbis.decoder#156] MediaCodec discarded an unknown buffer
+07-24 17:59:41.400 20791 20825 W EngineApiLoaderContr: All remote package attempts fail.
+07-24 17:59:41.401 20791 20825 W EngineApiLoaderContr: EngineApi implementation not found
+07-24 17:59:41.402 20791 20989 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+07-24 17:59:41.403 20791 20977 E libc    : Access denied finding property "ro.vendor.media.video.frc.support"
+07-24 17:59:41.407 20791 20978 D CCodecBufferChannel: [c2.android.vorbis.decoder#633] MediaCodec discarded an unknown buffer
+07-24 17:59:41.407 20791 20978 I chatty  : uid=10266(org.codeaurora.snapcam) NDK MediaCodec_ identical 1 line
+07-24 17:59:41.407 20791 20978 D CCodecBufferChannel: [c2.android.vorbis.decoder#633] MediaCodec discarded an unknown buffer
+07-24 17:59:41.412 20791 20994 D CCodec  : allocate(c2.android.vorbis.decoder)
+07-24 17:59:41.413 20791 20993 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+07-24 17:59:41.414 20791 20978 E libc    : Access denied finding property "ro.vendor.media.video.frc.support"
+07-24 17:59:41.414 20791 20994 I CCodec  : setting up 'default' as default (vendor) store
+07-24 17:59:41.418 20791 20994 I CCodec  : Created component [c2.android.vorbis.decoder]
+07-24 17:59:41.418 20791 20994 D CCodecConfig: read media type: audio/vorbis
+07-24 17:59:41.419 20791 20994 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+07-24 17:59:41.420 20791 20994 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+07-24 17:59:41.420 20791 20994 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+07-24 17:59:41.420 20791 20994 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+07-24 17:59:41.421 20791 20994 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+07-24 17:59:41.421 20791 20994 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+07-24 17:59:41.421 20791 20994 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+07-24 17:59:41.422 20791 20994 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+07-24 17:59:41.422 20791 20994 D CCodecConfig: c2 config diff is Dict {
+07-24 17:59:41.422 20791 20994 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+07-24 17:59:41.422 20791 20994 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+07-24 17:59:41.422 20791 20994 D CCodecConfig:   c2::u32 input.delay.value = 0
+07-24 17:59:41.422 20791 20994 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+07-24 17:59:41.422 20791 20994 D CCodecConfig:   string output.media-type.value = "audio/raw"
+07-24 17:59:41.422 20791 20994 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+07-24 17:59:41.422 20791 20994 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+07-24 17:59:41.422 20791 20994 D CCodecConfig: }
+07-24 17:59:41.422 20791 20994 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+07-24 17:59:41.422 20791 20994 D CCodecConfig: no c2 equivalents for durationUs
+07-24 17:59:41.422 20791 20994 D CCodecConfig: no c2 equivalents for track-id
+07-24 17:59:41.422 20791 20994 D CCodecConfig: no c2 equivalents for csd-1
+07-24 17:59:41.422 20791 20994 D CCodecConfig: no c2 equivalents for language
+07-24 17:59:41.422 20791 20994 D CCodecConfig: no c2 equivalents for file-format
+07-24 17:59:41.422 20791 20994 D CCodecConfig: no c2 equivalents for flags
+07-24 17:59:41.422 20791 20994 D CCodecConfig: config failed => CORRUPTED
+07-24 17:59:41.423 20791 20994 W Codec2Client: query -- param skipped: index = 1107298332.
+07-24 17:59:41.423 20791 20994 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+07-24 17:59:41.423 20791 20994 D CCodec  :   int32_t channel-count = 1
+07-24 17:59:41.423 20791 20994 D CCodec  :   int32_t max-input-size = 65307
+07-24 17:59:41.423 20791 20994 D CCodec  :   string mime = "audio/vorbis"
+07-24 17:59:41.423 20791 20994 D CCodec  :   int32_t sample-rate = 48000
+07-24 17:59:41.423 20791 20994 D CCodec  : } and output: AMessage(what = 0x00000000) = {
+07-24 17:59:41.423 20791 20994 D CCodec  :   int32_t channel-count = 1
+07-24 17:59:41.423 20791 20994 D CCodec  :   string mime = "audio/raw"
+07-24 17:59:41.423 20791 20994 D CCodec  :   int32_t sample-rate = 48000
+07-24 17:59:41.423 20791 20994 D CCodec  : }
+07-24 17:59:41.423 20791 21000 D CCodec  : allocate(c2.android.vorbis.decoder)
+07-24 17:59:41.423 20791 20994 W Codec2Client: query -- param skipped: index = 1342179345.
+07-24 17:59:41.423 20791 20994 W Codec2Client: query -- param skipped: index = 2415921170.
+07-24 17:59:41.426 20791 20994 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.433 20791 20994 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.434 20791 21000 I CCodec  : setting up 'default' as default (vendor) store
+07-24 17:59:41.435 20791 21000 I CCodec  : Created component [c2.android.vorbis.decoder]
+07-24 17:59:41.435 20791 21000 D CCodecConfig: read media type: audio/vorbis
+07-24 17:59:41.436 20791 21000 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.max-count.values
+07-24 17:59:41.436 20791 21000 D ReflectedParamUpdater: extent() != 1 for single value type: output.subscribed-indices.values
+07-24 17:59:41.436 20791 21000 D ReflectedParamUpdater: extent() != 1 for single value type: input.buffers.allocator-ids.values
+07-24 17:59:41.436 20791 21000 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.allocator-ids.values
+07-24 17:59:41.436 20791 21000 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.allocator-ids.values
+07-24 17:59:41.436 20791 21000 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+07-24 17:59:41.436 20791 21000 D ReflectedParamUpdater: extent() != 1 for single value type: algo.buffers.pool-ids.values
+07-24 17:59:41.437 20791 21000 I CCodecConfig: query failed after returning 7 values (BAD_INDEX)
+07-24 17:59:41.437 20791 21000 D CCodecConfig: c2 config diff is Dict {
+07-24 17:59:41.437 20791 21000 D CCodecConfig:   c2::u32 coded.bitrate.value = 64000
+07-24 17:59:41.437 20791 21000 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 32768
+07-24 17:59:41.437 20791 21000 D CCodecConfig:   c2::u32 input.delay.value = 0
+07-24 17:59:41.437 20791 21000 D CCodecConfig:   string input.media-type.value = "audio/vorbis"
+07-24 17:59:41.437 20791 21000 D CCodecConfig:   string output.media-type.value = "audio/raw"
+07-24 17:59:41.437 20791 21000 D CCodecConfig:   c2::u32 raw.channel-count.value = 1
+07-24 17:59:41.437 20791 21000 D CCodecConfig:   c2::u32 raw.sample-rate.value = 48000
+07-24 17:59:41.437 20791 21000 D CCodecConfig: }
+07-24 17:59:41.437 20791 21000 D CCodec  : [c2.android.vorbis.decoder] buffers are bound to CCodec for this session
+07-24 17:59:41.437 20791 21000 D CCodecConfig: no c2 equivalents for durationUs
+07-24 17:59:41.437 20791 21000 D CCodecConfig: no c2 equivalents for track-id
+07-24 17:59:41.437 20791 21000 D CCodecConfig: no c2 equivalents for csd-1
+07-24 17:59:41.437 20791 21000 D CCodecConfig: no c2 equivalents for language
+07-24 17:59:41.437 20791 21000 D CCodecConfig: no c2 equivalents for file-format
+07-24 17:59:41.437 20791 21000 D CCodecConfig: no c2 equivalents for flags
+07-24 17:59:41.437 20791 21000 D CCodecConfig: config failed => CORRUPTED
+07-24 17:59:41.437 20791 21000 W Codec2Client: query -- param skipped: index = 1107298332.
+07-24 17:59:41.437 20791 21000 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+07-24 17:59:41.437 20791 21000 D CCodec  :   int32_t channel-count = 1
+07-24 17:59:41.437 20791 21000 D CCodec  :   int32_t max-input-size = 65307
+07-24 17:59:41.437 20791 21000 D CCodec  :   string mime = "audio/vorbis"
+07-24 17:59:41.437 20791 21000 D CCodec  :   int32_t sample-rate = 48000
+07-24 17:59:41.437 20791 21000 D CCodec  : } and output: AMessage(what = 0x00000000) = {
+07-24 17:59:41.437 20791 21000 D CCodec  :   int32_t channel-count = 1
+07-24 17:59:41.437 20791 21000 D CCodec  :   string mime = "audio/raw"
+07-24 17:59:41.437 20791 21000 D CCodec  :   int32_t sample-rate = 48000
+07-24 17:59:41.437 20791 21000 D CCodec  : }
+07-24 17:59:41.437 20791 20994 D CCodecBufferChannel: [c2.android.vorbis.decoder#22] Created input block pool with allocatorID 16 => poolID 19 - OK (0)
+07-24 17:59:41.440 20791 20994 I CCodecBufferChannel: [c2.android.vorbis.decoder#22] Created output block pool with allocatorID 16 => poolID 11050 - OK
+07-24 17:59:41.440 20791 20994 D CCodecBufferChannel: [c2.android.vorbis.decoder#22] Configured output block pool ids 11050 => OK
+07-24 17:59:41.440 20791 20994 D CCodecBufferChannel: [c2.android.vorbis.decoder#22] start: updating output delay 0
+07-24 17:59:41.441 20791 20994 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.444 20791 21000 W Codec2Client: query -- param skipped: index = 1342179345.
+07-24 17:59:41.444 20791 21000 W Codec2Client: query -- param skipped: index = 2415921170.
+07-24 17:59:41.445 20791 21000 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.446 20791 21000 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.447 20791 21000 D CCodecBufferChannel: [c2.android.vorbis.decoder#620] Created input block pool with allocatorID 16 => poolID 20 - OK (0)
+07-24 17:59:41.449 20791 21000 I CCodecBufferChannel: [c2.android.vorbis.decoder#620] Created output block pool with allocatorID 16 => poolID 11051 - OK
+07-24 17:59:41.449 20791 21000 D CCodecBufferChannel: [c2.android.vorbis.decoder#620] Configured output block pool ids 11051 => OK
+07-24 17:59:41.449 20791 21000 D CCodecBufferChannel: [c2.android.vorbis.decoder#620] start: updating output delay 0
+07-24 17:59:41.450 20791 21000 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.453 20791 20984 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.467 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.468 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 70.66 ms > 70.00 ms
+07-24 17:59:41.470 20791 20984 E FMQ     : grantorIdx must be less than 3
+07-24 17:59:41.472 20791 20994 D CCodecBufferChannel: [c2.android.vorbis.decoder#22] MediaCodec discarded an unknown buffer
+07-24 17:59:41.472 20791 20994 D CCodecBufferChannel: [c2.android.vorbis.decoder#22] MediaCodec discarded an unknown buffer
+07-24 17:59:41.473 20791 20994 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+07-24 17:59:41.475 20791 20994 E libc    : Access denied finding property "ro.vendor.media.video.frc.support"
+07-24 17:59:41.502 20791 21000 D CCodecBufferChannel: [c2.android.vorbis.decoder#620] MediaCodec discarded an unknown buffer
+07-24 17:59:41.502 20791 21000 I chatty  : uid=10266(org.codeaurora.snapcam) identical 1 line
+07-24 17:59:41.502 20791 21000 D CCodecBufferChannel: [c2.android.vorbis.decoder#620] MediaCodec discarded an unknown buffer
+07-24 17:59:41.508 20791 21003 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+07-24 17:59:41.508 20791 21000 E libc    : Access denied finding property "ro.vendor.media.video.frc.support"
+07-24 17:59:41.510 20791 20824 W TEST_ISO: [8.0, 1.005] MAX_ISO = 8.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:41.510 20791 20824 W sGetActual_analog_gain: 8.0
+07-24 17:59:41.510 20791 20824 W sGetApplied_digital_gain: 1.005
+07-24 17:59:41.510 20791 20824 W sGetPost_raw_digital_gain: 1.33
+07-24 17:59:41.510 20791 20824 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:41.518 20791 20824 W GET camera ID : 4
+07-24 17:59:41.519 20791 20826 W CAM_VidRotDataLoader: Framerate metadata does not exist for the video at content://media/external/video/media/68453
+07-24 17:59:41.522 20791 20824 W GET camera ID : 4
+07-24 17:59:41.538 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.539 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.00 ms > 70.00 ms
+07-24 17:59:41.559 20791 20826 W CAM_VidRotDataLoader: Framerate metadata does not exist for the video at content://media/external/video/media/68450
+07-24 17:59:41.576 20791 20826 W CAM_VidRotDataLoader: Framerate metadata does not exist for the video at content://media/external/video/media/68448
+07-24 17:59:41.600 20791 20826 W CAM_VidRotDataLoader: Framerate metadata does not exist for the video at content://media/external/video/media/68443
+07-24 17:59:41.611 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.613 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.04 ms > 70.00 ms
+07-24 17:59:41.641 20791 20826 W CAM_VidRotDataLoader: Framerate metadata does not exist for the video at content://media/external/video/media/66219
+07-24 17:59:41.682 20791 20844 W HDR+_command : CAM_SimpleReqProcessor
+07-24 17:59:41.682 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.686 20791 20843 W GyroTransformCalc: Previous or current projection matrix cannot be computed. Defaulting to identity
+07-24 17:59:41.686 20791 20843 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:41.687 20791 20802 I eaurora.snapca: Compiler allocated 6540KB to compile void bk.A()
+07-24 17:59:41.687 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.95 ms > 70.00 ms
+07-24 17:59:41.752 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.753 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.00 ms > 70.00 ms
+07-24 17:59:41.824 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.824 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.99 ms > 70.00 ms
+07-24 17:59:41.902 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.903 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.03 ms > 70.00 ms
+07-24 17:59:41.942 20791 20825 W TEST_ISO: [8.0, 1.005] MAX_ISO = 8.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:41.942 20791 20825 W sGetActual_analog_gain: 8.0
+07-24 17:59:41.942 20791 20825 W sGetApplied_digital_gain: 1.005
+07-24 17:59:41.942 20791 20825 W sGetPost_raw_digital_gain: 1.37
+07-24 17:59:41.942 20791 20825 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:41.943 20791 20825 W GET camera ID : 4
+07-24 17:59:41.945 20791 20825 W GET camera ID : 4
+07-24 17:59:41.975 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:41.976 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.97 ms > 70.00 ms
+07-24 17:59:42.047 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.051 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.19 ms > 70.00 ms
+07-24 17:59:42.125 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.127 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.88 ms > 70.00 ms
+07-24 17:59:42.190 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.196 20791 20843 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:42.197 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.91 ms > 70.00 ms
+07-24 17:59:42.265 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.266 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.01 ms > 70.00 ms
+07-24 17:59:42.331 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.332 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.06 ms > 70.00 ms
+07-24 17:59:42.374 20791 20824 W TEST_ISO: [8.0, 1.005] MAX_ISO = 8.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:42.374 20791 20824 W sGetActual_analog_gain: 8.0
+07-24 17:59:42.374 20791 20824 W sGetApplied_digital_gain: 1.005
+07-24 17:59:42.374 20791 20824 W sGetPost_raw_digital_gain: 1.27
+07-24 17:59:42.374 20791 20824 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:42.375 20791 20824 W GET camera ID : 4
+07-24 17:59:42.380 20791 20824 W GET camera ID : 4
+07-24 17:59:42.407 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.408 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.91 ms > 70.00 ms
+07-24 17:59:42.479 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.480 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.00 ms > 70.00 ms
+07-24 17:59:42.549 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.550 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.17 ms > 70.00 ms
+07-24 17:59:42.622 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.624 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.88 ms > 70.00 ms
+07-24 17:59:42.694 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.696 20791 20843 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:42.697 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.95 ms > 70.00 ms
+07-24 17:59:42.775 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.781 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.09 ms > 70.00 ms
+07-24 17:59:42.805 20791 20824 W TEST_ISO: [8.0, 1.0] MAX_ISO = 8.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:42.805 20791 20824 W sGetActual_analog_gain: 8.0
+07-24 17:59:42.805 20791 20824 W sGetApplied_digital_gain: 1.0
+07-24 17:59:42.805 20791 20824 W sGetPost_raw_digital_gain: 1.24
+07-24 17:59:42.805 20791 20824 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:42.806 20791 20824 W GET camera ID : 4
+07-24 17:59:42.807 20791 20824 W GET camera ID : 4
+07-24 17:59:42.824 20791 20791 D MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=881162521, downTime=881162521, deviceId=-1, source=0x101, displayId=-1 }
+07-24 17:59:42.826 20791 20791 D MIUIInput: [KeyEvent] ViewRootImpl KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=881162521, downTime=881162521, deviceId=-1, source=0x101, displayId=-1 }
+07-24 17:59:42.838 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.839 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.88 ms > 70.00 ms
+07-24 17:59:42.855 20791 20835 W HDR+_command : CAM_AudioRestrictApi
+07-24 17:59:42.856 20791 20835 W HDR+_command : CAM_AudioRestrictApi
+07-24 17:59:42.927 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.930 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.24 ms > 70.00 ms
+07-24 17:59:42.984 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:42.986 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.75 ms > 70.00 ms
+07-24 17:59:43.100 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.101 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 73.07 ms > 70.00 ms
+07-24 17:59:43.122 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.124 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 80.55 ms > 70.00 ms
+07-24 17:59:43.124 20791 20843 W JankMonitorFacade: PHOTO > result sensor delay = 1.15 > 1.10
+07-24 17:59:43.196 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.203 20791 20843 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:43.236 20791 20825 W TEST_ISO: [8.0, 1.005] MAX_ISO = 8.0 MAX_DIGITAL_ISO = 2.0
+07-24 17:59:43.236 20791 20825 W sGetActual_analog_gain: 8.0
+07-24 17:59:43.236 20791 20825 W sGetApplied_digital_gain: 1.005
+07-24 17:59:43.236 20791 20825 W sGetPost_raw_digital_gain: 1.29
+07-24 17:59:43.236 20791 20825 W qyv     : CaptureResult is present COLOR_CORRECTION_GAINS FIX.
+07-24 17:59:43.237 20791 20825 W GET camera ID : 4
+07-24 17:59:43.238 20791 20825 W GET camera ID : 4
+07-24 17:59:43.271 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.273 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.97 ms > 70.00 ms
+07-24 17:59:43.347 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.350 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.99 ms > 70.00 ms
+07-24 17:59:43.412 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.413 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.00 ms > 70.00 ms
+07-24 17:59:43.487 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.489 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.00 ms > 70.00 ms
+07-24 17:59:43.558 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.561 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 71.99 ms > 70.00 ms
+07-24 17:59:43.613 20791 20791 W HDR+_command : CAM_ViewfinderSV0
+07-24 17:59:43.615 20791 20830 W HDR+_command : CAM_FrameServer
+07-24 17:59:43.616 20791 20830 W HDR+_command : CAM_CamDeviceWakelock
+07-24 17:59:43.616 20791 20844 W HDR+_command : CAM_CaptureSessionState
+07-24 17:59:43.617 20791 20830 W HDR+_command : CAM_FrameServer
+07-24 17:59:43.617 20791 20830 W HDR+_command : CAM_PckOneCamera-0
+07-24 17:59:43.682 20791 20830 W HDR+_command : CAM_LowLightAfLock
+07-24 17:59:43.687 20791 20830 W HDR+_command : CAM_gyro-scn-ch
+07-24 17:59:43.695 20791 20791 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.698 20791 20830 W HDR+_command : CAM_PckOneCamera-0
+07-24 17:59:43.707 20791 20791 W HDR+_command : CAM_CamDeviceWakelock
+07-24 17:59:43.715 20791 20791 W ContentCatcher: Failed to notify a WebView
+07-24 17:59:43.730 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.733 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.737 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.738 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.739 20791 20843 W CameraMetadataJV: Expect face scores and rectangles to be non-null
+07-24 17:59:43.739 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.740 20791 20844 W CAM_MetadataDst: onCaptureFailed for Frame 39
+07-24 17:59:43.741 20791 20843 W JankMonitorFacade: PHOTO > abs Δ(result sensor timestamp) = 72.09 ms > 70.00 ms
+07-24 17:59:43.742 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.743 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.744 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:43.746 20791 20844 W CAM_MetadataDst: onCaptureFailed for Frame 41
+07-24 17:59:43.746 20791 20844 W CAM_MetadataDst: onCaptureFailed for Frame 40
+07-24 17:59:43.746 20791 20844 W CAM_MetadataDst: onCaptureFailed for Frame 37
+07-24 17:59:43.747 20791 20844 W CAM_MetadataDst: onCaptureFailed for Frame 38
+07-24 17:59:43.747 20791 20844 W CAM_PRIVATEw1440: Distributing null to Stream-0 for frame 37 at 1203717599141172 because the buffer was lost.
+07-24 17:59:43.747 20791 20844 W CAM_YUV_420_888w1280: Distributing null to Stream-1 for frame 37 at 1203717599141172 because the buffer was lost.
+07-24 17:59:43.747 20791 20844 W CAM_PRIVATEw1440: Received onBufferLost from Stream-0 for frame 38 but was unable to find a matching request to abort.
+07-24 17:59:43.747 20791 20844 W CAM_YUV_420_888w1280: Received onBufferLost from Stream-1 for frame 38 but was unable to find a matching request to abort.
+07-24 17:59:43.747 20791 20844 W CAM_RAW10w1600: Received onBufferLost from Stream-2 for frame 38 but was unable to find a matching request to abort.
+07-24 17:59:43.747 20791 20844 W CAM_PRIVATEw1440: Received onBufferLost from Stream-0 for frame 39 but was unable to find a matching request to abort.
+07-24 17:59:43.747 20791 20844 W CAM_YUV_420_888w1280: Received onBufferLost from Stream-1 for frame 39 but was unable to find a matching request to abort.
+07-24 17:59:43.748 20791 20844 W CAM_RAW10w1600: Received onBufferLost from Stream-2 for frame 39 but was unable to find a matching request to abort.
+07-24 17:59:43.748 20791 20844 W CAM_PRIVATEw1440: Received onBufferLost from Stream-0 for frame 40 but was unable to find a matching request to abort.
+07-24 17:59:43.748 20791 20844 W CAM_YUV_420_888w1280: Received onBufferLost from Stream-1 for frame 40 but was unable to find a matching request to abort.
+07-24 17:59:43.748 20791 20844 W CAM_RAW10w1600: Received onBufferLost from Stream-2 for frame 40 but was unable to find a matching request to abort.
+07-24 17:59:43.748 20791 20844 W CAM_PRIVATEw1440: Received onBufferLost from Stream-0 for frame 41 but was unable to find a matching request to abort.
+07-24 17:59:43.748 20791 20844 W CAM_YUV_420_888w1280: Received onBufferLost from Stream-1 for frame 41 but was unable to find a matching request to abort.
+07-24 17:59:43.748 20791 20844 W CAM_RAW10w1600: Received onBufferLost from Stream-2 for frame 41 but was unable to find a matching request to abort.
+07-24 17:59:43.748 20791 20844 W HDR+_command : CAM_CaptureSessionState
+07-24 17:59:44.008 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:44.141 20791 20802 I eaurora.snapca: Compiler allocated 5258KB to compile void rdc.Y(java.lang.Object, raz)
+07-24 17:59:44.720 20791 20825 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:44.721 20791 20835 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:44.804 20791 20835 W HDR+_command : CAM_VirtualCameraMgr
+07-24 17:59:45.629 20791 20839 W HDR+_command : CAM_FrameServer
+07-24 17:59:45.631 20791 20839 W HDR+_command : CAM_FrameServer
+07-24 17:59:46.343 20791 20983 D BufferPoolAccessor2.0: bufferpool2 0x7d8e841028 : 0(0 size) total buffers - 0(0 size) used buffers - 3/9 (recycle/alloc) - 6/58 (fetch/transfer)
+07-24 17:59:46.343 20791 20983 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+07-24 17:59:47.344 20791 20983 D BufferPoolAccessor2.0: bufferpool2 0x7d66cdb428 : 0(0 size) total buffers - 0(0 size) used buffers - 1/9 (recycle/alloc) - 8/32 (fetch/transfer)
+07-24 17:59:47.344 20791 20983 D BufferPoolAccessor2.0: bufferpool2 0x7e22375a28 : 0(0 size) total buffers - 0(0 size) used buffers - 3/9 (recycle/alloc) - 9/22 (fetch/transfer)
+07-24 17:59:47.344 20791 20983 D BufferPoolAccessor2.0: bufferpool2 0x7d7cff9228 : 0(0 size) total buffers - 0(0 size) used buffers - 1/9 (recycle/alloc) - 8/40 (fetch/transfer)
+07-24 17:59:47.344 20791 20983 D BufferPoolAccessor2.0: evictor expired: 3, evicted: 3
+07-24 17:59:47.727 20791 20826 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-24 17:59:48.026 20791 20805 D AudioRecord: stop mSessionID=99729
+07-24 17:59:48.026 20791 20805 D AudioRecord: stop(18333): mActive:0
+07-24 17:59:48.027 20791 20805 D AudioService: broadcastRecorderState:org.codeaurora.snapcam
+07-24 17:59:48.027 20791 20805 D AudioRecord: stop mSessionID=99729
+07-24 17:59:48.027 20791 20805 D AudioRecord: stop(18333): mActive:0
+07-24 17:59:48.027 20791 20805 D AudioRecord: stop mSessionID=99729
+07-24 17:59:48.027 20791 20805 D AudioRecord: stop(18333): mActive:0
